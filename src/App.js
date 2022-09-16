@@ -2,6 +2,8 @@ import MainPage from "./page/Main";
 import './App.css'
 import AboutPage from "./page/About";
 import { KatalogPage } from "./page/Katalog";
+import AdvantagePage from "./page/Advantages";
+import ItemsPage from "./page/Items";
 
 
 function App() {
@@ -10,6 +12,8 @@ function App() {
       <MainPage/>
       <AboutPage/>
       <KatalogPage/>
+      <AdvantagePage/>
+      <ItemsPage/>
     </div>
   );
 }

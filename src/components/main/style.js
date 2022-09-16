@@ -73,7 +73,7 @@ align-items: center;
 justify-content: space-between;
 width: 100%;
 height: 70vh;
-border: 1px solid red;
+/* border: 1px solid red; */
 box-sizing: border-box;
 max-height: 800px;
 
@@ -86,7 +86,7 @@ justify-content: center;
 width: 40%;
 height: 60%;
 
-border: 1px solid blue;
+/* border: 1px solid blue; */
 
 `
 export const Img = styled.img`

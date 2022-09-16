@@ -9,7 +9,7 @@ width: 100%;
 height: 100vh;
 max-height: 1000px;
 padding:113px 0px ;
-border: 1px solid red;
+/* border: 1px solid red; */
 `
 export const MainText = styled.div`
 width: 549px;
@@ -21,7 +21,7 @@ font-size: 68px;
 line-height: 83px;
 color: #EC7F00;
 text-align: center;
-border:1px solid black;
+/* border:1px solid black; */
 
 `
 export const Content = styled.div`
@@ -34,7 +34,7 @@ export const Text = styled.div`
 /* display: flex;
 align-items: center; */
 width: 50%;
-border:1px solid red;
+/* border:1px solid red; */
 height: 80%;
 `
 export const Img = styled.img`

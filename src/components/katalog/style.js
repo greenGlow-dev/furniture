@@ -8,8 +8,8 @@ flex-direction: column;
 width: 100%;
 height: 100%;
 max-height: 2000px;
-padding:113px 0px ;
-border: 1px solid green;
+/* padding:113px 0px ; */
+/* border: 1px solid green; */
 `
 export const MainText = styled.div`
 width: 70%;
@@ -21,7 +21,7 @@ font-size: 68px;
 line-height: 83px;
 color: #EC7F00;
 text-align: center;
-border:1px solid black;
+/* border:1px solid black; */
 
 `
 export const Content = styled.div`
@@ -36,7 +36,7 @@ export const Text = styled.div`
 /* display: flex;
 align-items: center; */
 width: 50%;
-border:1px solid red;
+/* border:1px solid red; */
 height: 80%;
 `
 
@@ -80,7 +80,7 @@ export const Galalery = styled.div`
 display: flex;
 align-items: center;
 justify-content: space-around;
-border:1px solid blue;
+/* border:1px solid blue; */
 width: 90%;
 height: 100%;
 margin: 1rem;
